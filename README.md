@@ -6,6 +6,7 @@ Source of English words
 http://www.mieliestronk.com/wordlist.html
 
 Result
+'''
 Total number of words: 58110
 Collision Rate of 2 : 52.81%
 Collision Rate of 3 : 21.59%
@@ -24,3 +25,4 @@ Collision Rate of 43 : 0.00%
 Collision Rate of 47 : 0.00%
 Collision Rate of 53 : 0.00%
 Collision Rate of 59 : 0.00%
+'''
