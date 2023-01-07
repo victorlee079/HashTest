@@ -1,18 +1,26 @@
-## Getting Started
+## This is a test on prime numbers used in generating hashcode in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The programs used 58000 English words for testing the impact on collision rate of prime numbers
 
-## Folder Structure
+Source of English words
+http://www.mieliestronk.com/wordlist.html
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Result
+Total number of words: 58110
+Collision Rate of 2 : 52.81%
+Collision Rate of 3 : 21.59%
+Collision Rate of 5 : 5.91%
+Collision Rate of 7 : 2.72%
+Collision Rate of 11 : 0.56%
+Collision Rate of 13 : 0.44%
+Collision Rate of 17 : 0.16%
+Collision Rate of 19 : 0.07%
+Collision Rate of 23 : 0.02%
+Collision Rate of 29 : 0.00%
+Collision Rate of 31 : 0.00%
+Collision Rate of 37 : 0.00%
+Collision Rate of 41 : 0.00%
+Collision Rate of 43 : 0.00%
+Collision Rate of 47 : 0.00%
+Collision Rate of 53 : 0.00%
+Collision Rate of 59 : 0.00%
