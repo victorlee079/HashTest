@@ -1,4 +1,4 @@
-## This is a test on prime numbers used in generating hashcode in Java
+## Test on prime numbers used in generating hashcode in Java
 
 The programs used 58000 English words for testing the impact on collision rate of prime numbers
 
